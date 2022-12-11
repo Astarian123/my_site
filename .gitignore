@@ -1,0 +1,4 @@
+django_admin_site/
+staticfiles/
+Secret_key.txt
+.*
